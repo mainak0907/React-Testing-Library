@@ -1,19 +1,46 @@
-# React-Testing-Library
-## Jest and React Testing Library
+# Getting Started with Create React App
 
-<img width="876" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/8601e53c-a6c3-4364-a10e-222186f01ee7">
-<img width="483" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/07d240f8-1b8e-4dfe-b0f0-cb92bbcc212e">
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Types of Tests
+## Available Scripts
 
-<img width="911" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/a3f46b84-019d-4598-b9bd-30b64b8c1fa3">
-<img width="431" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/89912ec5-c1ab-4df3-aa43-7f3cfe909545">
-<img width="458" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/a1e95b04-9834-40ae-a103-d5565d52b28b">
-<img width="404" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/044278fb-6b9d-44a4-a043-8c81ba45b050">
-<img width="934" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/b93de33d-3b9c-450a-9748-6a1d4810d909">
+In the project directory, you can run:
 
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
