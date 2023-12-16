@@ -12,6 +12,9 @@
 <img width="404" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/044278fb-6b9d-44a4-a043-8c81ba45b050">
 <img width="934" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/b93de33d-3b9c-450a-9748-6a1d4810d909">
 
+## Anatomy of a Test 
+
+<img width="924" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/2792bdfd-22e4-41cd-943f-8419eb6e3ebc">
 
 
 
