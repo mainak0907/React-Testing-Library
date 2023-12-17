@@ -28,3 +28,41 @@
 
 Use the Command line opitions or can use ```test.only()``` to use a particular test , or ```test.skip()``` to skip a particular test.
 
+## Grouping of Tests 
+
+<img width="439" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/12a6f24b-18c9-43ca-9f38-a6171a36ede1">
+
+Nesting of describe is possible, multiple describe blocks are possible , using ```.only()``` and ```.skip()``` are also possible.
+
+## Filename Conventions 
+
+<img width="889" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/88f3821e-7342-452f-a41d-264a8c63ae88">
+
+instead of ```test()``` , we can use ```it()``` and ```.only()``` is ```fit()``` and ```.skip()``` is ```xit()```
+
+## Code Coverage and Reports
+
+<img width="930" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/42d596d0-bdd1-4371-92c3-452b85d7f137">
+
+The report can be viewed in the index.html in the coverage Folder created or in the terminal itself.
+
+To add filters on the type of files to be included in the report -
+
+```
+ "coverage": "react-scripts test --coverage --watchAll --collectCoverageFrom='src/components/**/*.{ts,tsx}' --collectCoverageFrom='!src/components/**/*.{types, stories, constants, test, spec}.{ts,tsx}'"
+
+```
+
+To add a threshold - 
+```
+"jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 80,
+        "functions": 80,
+        "lines": 80,
+        "statements": -10
+      }
+    }
+  }
+```
