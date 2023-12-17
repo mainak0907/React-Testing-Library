@@ -16,6 +16,15 @@
 
 <img width="924" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/2792bdfd-22e4-41cd-943f-8419eb6e3ebc">
 
+## TDD Approch
 
+<img width="920" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/bb2b8821-fa0f-4eff-978f-9dd6bbc04143">
 
+## Watch Mode in Jest 
+
+<img width="902" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/329a4576-0ef8-4136-8304-23de45268135">
+
+## Filtering Test 
+
+Use the Command line opitions or can use ```test.only()``` to use a particular test , or ```test.skip()``` to skip a particular test.
 
