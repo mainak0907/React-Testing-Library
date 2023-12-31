@@ -66,3 +66,12 @@ To add a threshold -
     }
   }
 ```
+
+## Assertions 
+<img width="857" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/84f1cffa-dc5a-49d9-a02a-599dd03cd026">
+
+Refer this link for more - https://jestjs.io/docs/using-matchers
+
+<img width="473" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/d7bbdb7a-e576-4abc-9ded-a6533cccf3fd">
+
+Custom matcher functions - https://github.com/testing-library/jest-dom
