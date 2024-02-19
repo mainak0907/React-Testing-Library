@@ -75,3 +75,15 @@ Refer this link for more - https://jestjs.io/docs/using-matchers
 <img width="473" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/d7bbdb7a-e576-4abc-9ded-a6533cccf3fd">
 
 Custom matcher functions - https://github.com/testing-library/jest-dom
+
+## What to Test?
+
+<img width="263" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/62c585f3-6263-44c9-8d3a-4cc698c4f22d">
+
+<img width="332" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/63261b80-4486-4575-87e7-201f0d72d2a7">
+
+## RTL Queries
+
+<img width="874" alt="image" src="https://github.com/mainak0907/React-Testing-Library/assets/88925745/5eef1dd0-49b5-41ff-97ce-ea6d8896de26">
+
+
